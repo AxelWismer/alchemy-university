@@ -1,0 +1,3 @@
+[submodule "ecdsa-node"]
+	path = ecdsa-node
+	url = https://github.com/AxelWismer/ecdsa-node
