@@ -1,3 +1,6 @@
 [submodule "ecdsa-node"]
 	path = ecdsa-node
 	url = https://github.com/AxelWismer/ecdsa-node
+[submodule "GiftList"]
+	path = GiftList
+	url = https://github.com/AxelWismer/GiftList
