@@ -14,3 +14,6 @@ In order to do this, the root of the Merkle tree is calculated and stored on the
 
 ## [Block Explorer](https://github.com/AxelWismer/blockexplorer)
 Ethereum block explorer app that uses the Alchemy SDK to perform complex blockchain queries.
+
+https://user-images.githubusercontent.com/49920097/214180027-fa4d1ede-de19-4417-b6d6-66f481753e67.mp4
+
