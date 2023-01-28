@@ -3,7 +3,10 @@
 	url = https://github.com/AxelWismer/ecdsa-node
 [submodule "GiftList"]
 	path = GiftList
-	url = https://github.com/AxelWismer/GiftList
+	url = https://github.com/AxelWismer/GiftList.git
 [submodule "smart-contract-winner"]
 	path = smart-contract-winner
 	url = https://github.com/AxelWismer/smart-contract-winner.git
+[submodule "blockexplorer"]
+	path = blockexplorer
+	url = https://github.com/AxelWismer/blockexplorer.git
