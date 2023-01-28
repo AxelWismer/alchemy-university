@@ -4,3 +4,6 @@
 [submodule "GiftList"]
 	path = GiftList
 	url = https://github.com/AxelWismer/GiftList
+[submodule "smart-contract-winner"]
+	path = smart-contract-winner
+	url = https://github.com/AxelWismer/smart-contract-winner.git

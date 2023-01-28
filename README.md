@@ -17,3 +17,5 @@ Ethereum block explorer app that uses the Alchemy SDK to perform complex blockch
 
 https://user-images.githubusercontent.com/49920097/214180027-fa4d1ede-de19-4417-b6d6-66f481753e67.mp4
 
+## [Smart Contract Winner](https://github.com/AxelWismer/smart-contract-winner)
+Week 4 Alchemy University exercise involving the creation and deployment of contracts in hardhat.
