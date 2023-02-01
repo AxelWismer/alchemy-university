@@ -19,3 +19,8 @@ https://user-images.githubusercontent.com/49920097/214180027-fa4d1ede-de19-4417-
 
 ## [Smart Contract Winner](https://github.com/AxelWismer/smart-contract-winner)
 Week 4 Alchemy University exercise involving the creation and deployment of contracts in hardhat.
+
+## Solidity Games
+-  [Contract Puzzles](https://github.com/AxelWismer/Contract-Puzzles)
+
+-  [Local Hardhat Games](https://github.com/AxelWismer/Local-Hardhat-Games)

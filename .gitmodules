@@ -13,3 +13,6 @@
 [submodule "Contract-Puzzles"]
 	path = Contract-Puzzles
 	url = https://github.com/AxelWismer/Contract-Puzzles.git
+[submodule "Local-Hardhat-Games"]
+	path = Local-Hardhat-Games
+	url = https://github.com/AxelWismer/Local-Hardhat-Games.git
