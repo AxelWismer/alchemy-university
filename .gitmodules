@@ -10,3 +10,6 @@
 [submodule "blockexplorer"]
 	path = blockexplorer
 	url = https://github.com/AxelWismer/blockexplorer.git
+[submodule "Contract-Puzzles"]
+	path = Contract-Puzzles
+	url = https://github.com/AxelWismer/Contract-Puzzles.git
